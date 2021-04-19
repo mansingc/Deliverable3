@@ -10,7 +10,7 @@ import java.util.Collections;
 
 /**
  *
- * @author Kubra Bas Arshdeep Dhakla Christopher Mansingh
+ * @author Kubra Bas Arshdeep Dhalla Christopher Mansingh
  */
 public class GroupOfCards extends Card{
     

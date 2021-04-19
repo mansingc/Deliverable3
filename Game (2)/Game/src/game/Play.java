@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author kbas0
+ * @author Kubra Bas Arshdeep Dhakla Christopher Mansingh
  */
 public class Play extends Game {
 

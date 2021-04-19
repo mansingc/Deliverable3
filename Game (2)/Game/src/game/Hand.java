@@ -11,7 +11,7 @@ import java.util.Random;
 
 /**
  *
- * @author kbas0
+ * @author Kubra Bas Arshdeep Dhakla Christopher Mansingh
  */
 public class Hand extends Deck {
 

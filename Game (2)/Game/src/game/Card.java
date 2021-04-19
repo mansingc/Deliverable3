@@ -7,7 +7,7 @@ package game;
 
 /**
  *
- * @author Kubra Bas Arshdeep Dhakla Christopher Mansingh
+ * @author Kubra Bas Arshdeep Dhalla Christopher Mansingh
  */
 public abstract class Card {
 

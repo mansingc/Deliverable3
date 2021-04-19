@@ -10,7 +10,7 @@ import java.util.Collections;
 
 /**
  *
- * @author kbas0
+ * @author Kubra Bas Arshdeep Dhakla Christopher Mansingh
  */
 public class Deck {
 

@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author kbas0
+ * @author Kubra Bas Arshdeep Dhakla Christopher Mansingh
  */
 public abstract class Game {
     
